@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm Sean
 
-<!--
-**arist0tl3/arist0tl3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product-minded engineer who loves building features that move metrics and tools that solve real problems.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:** Exploring product engineer projects and opportunities where I can own features end-to-end and stay close to shipping
+
+**Recently shipped:**
+- 4 0→1 products in 2025 at StyleSeat (video integration, loyalty program, branded websites, social post builder)
+- Real-time chat integration that 3x'd booking conversion
+
+## Side Projects
+
+🔒 **[Engineering Manager Dashboard](https://github.com/arist0tl3/people-manager)** - Tools I built to track team health, cycle times, and performance metrics while managing 12 engineers
+
+📱 **[Rolo](https://github.com/arist0tl3/rolo)** ([rolo.ninja](https://rolo.ninja)) - Offline-first PWA contact manager for remembering people I meet while traveling. Use it daily.
+
+🍽️ **[Restaurant Analytics AI](https://github.com/arist0tl3/restaurant-analytics-ai)** (WIP) - AI-powered business insights for restaurants. Exploring practical AI applications beyond chatbots.
+
+## Earlier Work
+
+Built developer tools and community at Koji (150+ developers), led engineering at early-stage startups (Smorgborg, Workforce Loyalty), shipped full-stack features across marketplaces and SaaS products.
+
+## Tech
+
+**Current stack:** React • TypeScript • Node • GraphQL • API Integrations • PWA
+
+**Experience with:** Marketplace platforms • Attribution systems • Analytics tooli
