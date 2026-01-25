@@ -26,4 +26,8 @@ Built developer tools and community at Koji (150+ developers), led engineering a
 
 **Current stack:** React • TypeScript • Node • GraphQL • API Integrations • PWA
 
-**Experience with:** Marketplace platforms • Attribution systems • Analytics tooli
+**Experience with:** Marketplace platforms • Attribution systems • Analytics tooling
+
+## Find me
+
+https://seanelliot.dev
